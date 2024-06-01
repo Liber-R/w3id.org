@@ -1,6 +1,3 @@
-Options +FollowSymLinks
-
-
 RewriteEngine On
 
 RewriteRule ^https://w3id.org/BerlinWallProject/(.*)$ https://isch-course.github.io/Berlin_Wall_Project/ [R=302,L]
